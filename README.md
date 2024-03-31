@@ -36,8 +36,8 @@ Operation: Inserts 5 rows of data with random details into the Registration tabl
 
 3. Retrieving Data:
 -------------------
--Class: readData
--Operation: Fetches details based on the provided ID from the Registration table.
+Class: readData
+Operation: Fetches details based on the provided ID from the Registration table.
 
 4. Updating Data:
 -----------------
