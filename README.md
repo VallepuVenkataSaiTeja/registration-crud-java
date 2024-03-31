@@ -31,8 +31,8 @@ dateofbirth DATE
 
 2. Inserting Data:
 ------------------
-Class: insertData
-Operation: Inserts 5 rows of data with random details into the Registration table.
+*Class: insertData
+*Operation: Inserts 5 rows of data with random details into the Registration table.
 
 3. Retrieving Data:
 -------------------
